@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "package": "herramientas"
+  },
+  {
+    "package": "comunicacion"
+  }
+]

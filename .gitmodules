@@ -1,5 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/dnme-minturdep/universe
 	shallow = true
 	branch = HEAD
+[submodule "herramientas"]
+	path = herramientas
+	url = https://github.com/dnme-minturdep/herramientas
+	shallow = true
+	registered = true
+[submodule "comunicacion"]
+	path = comunicacion
+	url = https://github.com/dnme-minturdep/comunicacion
+	shallow = true
+	registered = true
