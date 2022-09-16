@@ -3,6 +3,12 @@
     "package": "herramientas"
   },
   {
+    "package": "evyth"
+  },
+  {
     "package": "comunicacion"
+  },
+  {
+    "package": "d4t4tur"
   }
 ]

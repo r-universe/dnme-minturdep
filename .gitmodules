@@ -8,8 +8,18 @@
 	url = https://github.com/dnme-minturdep/herramientas
 	shallow = true
 	registered = true
+[submodule "evyth"]
+	path = evyth
+	url = https://github.com/dnme-minturdep/evyth
+	shallow = true
+	registered = true
 [submodule "comunicacion"]
 	path = comunicacion
 	url = https://github.com/dnme-minturdep/comunicacion
+	shallow = true
+	registered = true
+[submodule "d4t4tur"]
+	path = d4t4tur
+	url = https://github.com/dnme-minturdep/d4t4tur
 	shallow = true
 	registered = true
