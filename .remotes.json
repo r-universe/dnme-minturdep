@@ -1,0 +1,20 @@
+[
+  {
+    "package": "comunicacion",
+    "url": "https://github.com/dnme-minturdep/comunicacion",
+    "via": ["d4t4tur"],
+    "from": "d4t4tur"
+  },
+  {
+    "package": "evyth",
+    "url": "https://github.com/dnme-minturdep/evyth",
+    "via": ["d4t4tur"],
+    "from": "d4t4tur"
+  },
+  {
+    "package": "herramientas",
+    "url": "https://github.com/dnme-minturdep/herramientas",
+    "via": ["d4t4tur"],
+    "from": "d4t4tur"
+  }
+]
