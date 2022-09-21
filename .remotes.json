@@ -6,6 +6,12 @@
     "from": "d4t4tur"
   },
   {
+    "package": "comunicacion",
+    "url": "https://github.com/dnme-minturdep/comunicacion",
+    "via": ["evyth"],
+    "from": "evyth"
+  },
+  {
     "package": "evyth",
     "url": "https://github.com/dnme-minturdep/evyth",
     "via": ["d4t4tur"],
