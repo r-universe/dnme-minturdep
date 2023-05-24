@@ -22,5 +22,11 @@
     "url": "https://github.com/dnme-minturdep/herramientas",
     "via": ["d4t4tur"],
     "from": "d4t4tur"
+  },
+  {
+    "package": "staplr",
+    "url": "https://github.com/pridiltal/staplr",
+    "via": ["comunicacion"],
+    "from": "comunicacion"
   }
 ]

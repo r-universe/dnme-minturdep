@@ -23,3 +23,8 @@
 	url = https://github.com/dnme-minturdep/d4t4tur
 	shallow = true
 	registered = true
+[submodule "staplr"]
+	path = staplr
+	url = https://github.com/pridiltal/staplr
+	shallow = true
+	registered = false
