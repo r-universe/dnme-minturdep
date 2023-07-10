@@ -1,30 +1,20 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/dnme-minturdep/universe
-	shallow = true
 	branch = HEAD
 [submodule "herramientas"]
 	path = herramientas
 	url = https://github.com/dnme-minturdep/herramientas
-	shallow = true
-	registered = true
 [submodule "evyth"]
 	path = evyth
 	url = https://github.com/dnme-minturdep/evyth
-	shallow = true
-	registered = true
 [submodule "comunicacion"]
 	path = comunicacion
 	url = https://github.com/dnme-minturdep/comunicacion
-	shallow = true
-	registered = true
 [submodule "d4t4tur"]
 	path = d4t4tur
 	url = https://github.com/dnme-minturdep/d4t4tur
-	shallow = true
-	registered = true
 [submodule "staplr"]
 	path = staplr
 	url = https://github.com/pridiltal/staplr
-	shallow = true
 	registered = false
