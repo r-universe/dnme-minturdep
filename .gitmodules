@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/dnme-minturdep/universe
 	branch = HEAD
-[submodule "herramientas"]
-	path = herramientas
-	url = https://github.com/dnme-minturdep/herramientas
-[submodule "evyth"]
-	path = evyth
-	url = https://github.com/dnme-minturdep/evyth
 [submodule "comunicacion"]
 	path = comunicacion
 	url = https://github.com/dnme-minturdep/comunicacion
 [submodule "d4t4tur"]
 	path = d4t4tur
 	url = https://github.com/dnme-minturdep/d4t4tur
+[submodule "evyth"]
+	path = evyth
+	url = https://github.com/dnme-minturdep/evyth
+[submodule "herramientas"]
+	path = herramientas
+	url = https://github.com/dnme-minturdep/herramientas
 [submodule "staplr"]
 	path = staplr
 	url = https://github.com/pridiltal/staplr
