@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/dnme-minturdep/universe
+	url = https://github.com/dnme-minturdep/dnme-minturdep.r-universe.dev
 	branch = HEAD
 [submodule "comunicacion"]
 	path = comunicacion
