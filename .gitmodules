@@ -14,7 +14,3 @@
 [submodule "herramientas"]
 	path = herramientas
 	url = https://github.com/dnme-minturdep/herramientas
-[submodule "staplr"]
-	path = staplr
-	url = https://github.com/pridiltal/staplr
-	registered = false
